@@ -1,3 +1,9 @@
+# Installation
+
+1. Download `nodeJS` from `https://nodejs.org/en/download/`
+2. run `npm i -g create-react-app`
+3. In root of the project run `npm i`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
